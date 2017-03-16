@@ -2,5 +2,4 @@ language: node_js
 deploy:
   provider: azure_web_apps
   username: aditya9@outlook.com     # If AZURE_WA_USERNAME isn't set
-  password: azpass   # If AZURE_WA_PASSWORD isn't set
   site: cfd17
